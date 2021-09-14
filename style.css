@@ -196,14 +196,15 @@ nav ul li {
     background-color: darkslategray;
 }
 
-.card{
+.card {
     border: none;
 }
 
-.collapse {
+.collapsed {
     font-family: "DMSans-Regular";
     color: black;
     text-decoration: none;
+
 }
 
 .collapsing {
